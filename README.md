@@ -30,6 +30,7 @@
 - **[What is Podcasting?](https://en.wikipedia.org/wiki/Podcast)** - An overview of podcasting and its history.
 - **[The Podcast Host](https://www.thepodcasthost.com/)** - Tips, tools, and tutorials for starting a podcast.
 - **[Podnews](https://podnews.net/)** - Daily news and updates from the podcasting world.
+- **[PastNoise](https://pastnoise.com/)** - Searchable index of 207M+ spoken podcast lines with deterministic sponsor-read removal and -16 LUFS audio clip normalization.
 
 ## Recording and Editing Tools
 
