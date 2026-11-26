@@ -33,6 +33,7 @@
 
 ## Recording and Editing Tools
 
+- **[AIAC LUFS Meter & SoundCraft](https://aiac.app/lufs-meter/)** - Free zero-upload browser ITU-R BS.1770-4 podcast loudness meter (-16 LUFS / True Peak) and Rust/WebAssembly multitrack audio editor.
 - **[Audacity](https://www.audacityteam.org/)** - Free, open-source audio editing software.
 - **[Adobe Audition](https://www.adobe.com/products/audition.html)** - Professional audio editing software with advanced features.
 - **[GarageBand](https://www.apple.com/mac/garageband/)** - A beginner-friendly audio editor for Mac users.
